@@ -14,7 +14,7 @@
 			<h4>Contact Info</h4>
 			<div class="dz-separator style-1 text-primary mb-0"></div>	
 		</div>
-		<div class="icon-bx-wraper left">
+		<!-- <div class="icon-bx-wraper left">
 			<div class="icon-md m-r20">
 				<span class="icon-cell"><i class="las la-phone-volume"></i></span> 
 			</div>
@@ -22,14 +22,14 @@
 				<h5 class="tilte">Call Now</h5>
 				<p class="m-b0">+8801833148736</p>
 			</div>
-		</div>
+		</div> -->
 		<div class="icon-bx-wraper left">
 			<div class="icon-md m-r20">
 				<span class="icon-cell"><i class="las la-envelope-open"></i></span> 
 			</div>
 			<div class="icon-content">
 				<h5 class="tilte">Email Now</h5>
-				<p class="m-b0">akramul@nascobd.com</p>
+				<p class="m-b0">akramul@ahtech.com.sg</p>
 			</div>
 		</div>
 		<div class="icon-bx-wraper left">
@@ -38,7 +38,7 @@
 			</div>
 			<div class="icon-content">
 				<h5 class="tilte">Location</h5>
-				<p class="m-b0"><a href="https://maps.app.goo.gl/w4ch2FMxRMrFUS9X8" target="_blank">Dhaka, Bangladesh</a></p>
+				<p class="m-b0"><a href="https://maps.app.goo.gl/1w2ARknzucY21PSTA" target="_blank">PAYA LEBAR SQUARE, SINGAPORE 409051</a></p>
 			</div>
 		</div>
 	</div>	

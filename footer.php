@@ -16,7 +16,7 @@
 								<li><i class="fa fa-globe"></i>www.ahtech.com.sg</li>
 								<li><i class="flaticon-email"></i>akramul@ahtech.com.sg</li>
 							</ul><br>
-							<a class="btn-link style-2" href="https://goo.gl/maps/abJ9RgBEbfZcXYhw9">GET DIRECTIONS <i class="m-l5 las la-plus"></i></a>
+							<a class="btn-link style-2" href="https://maps.app.goo.gl/1w2ARknzucY21PSTA">GET DIRECTIONS <i class="m-l5 las la-plus"></i></a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6 m-b40 aos-item aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
