@@ -8,11 +8,11 @@
 				<div class="row">
 					<div class="col-lg-5">
 						<div class="section-head style-1">
-							<h2 class="title">We are the exclusive agents of Siemens AG and Osram in the Emirate of Abu Dhabi</h2>
+							<h2 class="title">We are the exclusive agents and pioneer suppliers in Singapore</h2>
 						</div>
 					</div>
 					<div class="col-lg-7">
-						<p class="text-justify">Nasco Power Engineering Ltd has been the Exclusive Agents of SIEMENS in the Emirate of Abu Dhabi since 1971. Offices, factories, stores, and showrooms totaling over 13,000 square meters. We have been providing excellence in Contracting, Switchgear manufacturing, Electrical trading, Traffic Signaling and Automation We believe in delivering a safe and healthy work environment, and we are ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, and OHSAS 18001:2007 certified to do so.</p>
+						<p class="text-justify">We are the pioneer supplier and service provider in Singapore in the sector of electro mechanical equipment, low and medium voltage electrical devices, supply of spare parts for different brand Generators etc</p>
 					</div>
 				</div>
 			</div>
@@ -27,10 +27,10 @@
 						<h2 class="main-title">ONE STOP SOLUTION</h2>
 						<h4 class="title">Concept to commissioning - Engineering, Manufacturing, Execution, Handing over.</h4>
 						<div class="year-exp shadow m-b30">
-							<h2 class="year text-primary">CELEBRATING</h2>
-							<h4 class="text">50 YEARS OF <span class="text-primary">EXPERIENCE</span></h4>
+							<h2 class="year text-primary">Powering</h2>
+							<h4 class="text">the <span class="text-primary">Future</span></h4>
 						</div>
-						<p class="text-justify">NascoBD provides complete engineering services including supply, installation, testing and commissioning of a wide variety of products from SIEMENS with over 300 domain experts. Trade and retail handled by experts from our showrooms.</p>
+						<p class="text-justify">We are the pioneer supplier and service provider in Singapore in the sector of electro mechanical equipment, low and medium voltage electrical devices, supply of spare parts for different brand Generators etc</p>
 						<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 					</div>
 				</div>
