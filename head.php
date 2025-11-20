@@ -11,7 +11,7 @@
 	<title>AHTech Power Engineering Ltd</title>
 	<meta name="keywords" content="">
 	<meta name="description" content="AHTech Power Engineering Ltd has been the Exclusive Agents of SIEMENS in the Emirate of Abu Dhabi since 1971. We have been providing excellence in Contracting, Switchgear manufacturing, Electrical trading, Traffic Signaling and Automation.">
-	    <link rel="icon" type="image/png" href="images/favicon.png">
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link href="vendor/lightgallery/css/lightgallery.min.css" rel="stylesheet">
 	<link href="vendor/magnific-popup/magnific-popup.min.css" rel="stylesheet">
 	<link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">

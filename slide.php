@@ -8,8 +8,8 @@
 				<div class="silder-content">
 					<div class="inner-content">
 						<h1 class="title">
-							<span>50 Years Of</span><br/>
-							<strong>Excellence</strong><br/>
+							<span>Powering the</span><br/>
+							<strong>Future</strong><br/>
 						</h1>
 					</div>
 				</div>

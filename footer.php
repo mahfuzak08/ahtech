@@ -10,11 +10,11 @@
 								<h4 class="title">Contact Us</h4>
 							</div>
 							<ul>
-								<li><i class="flaticon-placeholder"></i>Rupayan Taj, Naya Paltan, Dhaka </li>
-								<li><i class="flaticon-telephone"></i>+8801833148736</li>								
+								<li><i class="flaticon-placeholder"></i>60 PAYA LEBAR ROAD,#07-54, PAYA LEBAR SQUARE, SINGAPORE 409051</li>
+								<!-- <li><i class="flaticon-telephone"></i>+8801833148736</li>								 -->
 								<!--<li><i class="fa fa-fax"></i>+971 2 626 9871</li>-->
-								<li><i class="fa fa-globe"></i>www.nascobd.com.ae</li>
-								<li><i class="flaticon-email"></i>akramul@nascobd.com</li>
+								<li><i class="fa fa-globe"></i>www.ahtech.com.sg</li>
+								<li><i class="flaticon-email"></i>akramul@ahtech.com.sg</li>
 							</ul><br>
 							<a class="btn-link style-2" href="https://goo.gl/maps/abJ9RgBEbfZcXYhw9">GET DIRECTIONS <i class="m-l5 las la-plus"></i></a>
 						</div>
@@ -52,7 +52,7 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 m-b40 aos-item aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7304.799626053852!2d90.412245!3d23.733118!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8f5fdebabdd%3A0xca8c46827b05e7ca!2sRupayan%20Taj!5e0!3m2!1sen!2sbd!4v1754101313997!5m2!1sen!2sbd" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1688.3103652165635!2d103.89219824960418!3d1.3194178791367677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1818677e43ff%3A0x6f79d2e355e2403a!2s60%20Paya%20Lebar%20Rd%2C%20%2307%2054%20Paya%20Lebar%20Square%2C%20Singapore%20409051!5e0!3m2!1sen!2sbd!4v1763614919479!5m2!1sen!2sbd" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 					</div>
 				</div>
             </div>

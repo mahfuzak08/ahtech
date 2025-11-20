@@ -17259,10 +17259,25 @@ pre {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: 0;
-  width: 300px;
+  width: 450px;
   height: 100px;
   position: relative;
   z-index: 9; }
+.logo-header img{
+    max-height: 100px;
+    max-width: 100px;
+    float: left;
+    margin-right: 15px;
+}
+.logo-header h1{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    line-height: 100px;
+    vertical-align: middle;
+    font-weight: 600;
+    color: inherit;
+}
   @media only screen and (max-width: 991px) {
     .logo-header {
       width: 180px;
@@ -17275,7 +17290,8 @@ pre {
       
   }
   .logo-header a {
-    display: table-cell;
+    display: flex;
+    align-items: center;
     vertical-align: middle; }
   .logo-header img {
     height: auto;

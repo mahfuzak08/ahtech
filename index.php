@@ -31,7 +31,7 @@
 							<h4 class="text">50 YEARS OF <span class="text-primary">EXPERIENCE</span></h4>
 						</div>
 						<p class="text-justify">NascoBD provides complete engineering services including supply, installation, testing and commissioning of a wide variety of products from SIEMENS with over 300 domain experts. Trade and retail handled by experts from our showrooms.</p>
-						<a href="about-us.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+						<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 					</div>
 				</div>
 			</div>
@@ -57,7 +57,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="intelligent-transportation-systems.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -77,7 +77,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="project/epc.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -97,7 +97,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="medium-voltage-switchgear.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -117,7 +117,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="low-voltage-switchgear.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -157,7 +157,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="retail-and-showrooms.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -177,7 +177,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="retail-and-showrooms.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -197,7 +197,7 @@
 							<div class="back">
 								<div class="inner">
 									<div>
-										<a href="retail-and-showrooms.php" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
+										<a href="#" class="btn shadow-primary btn-primary">Read More <i class="m-l10 fas fa-caret-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -214,7 +214,7 @@
 							<div class="video-bx content-media style-1">
 								<img src="images/video/pic1.jpg" alt="">
 								<div class="video-btn aos-item" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="200">
-									<a href="https://www.youtube.com/watch?v=d9kXYPrSksY" class="popup-youtube"><i class="flaticon-play"></i></a>
+									<a href="#" class="popup-youtube"><i class="flaticon-play"></i></a>
 								</div>
 							</div>
 						</div>
