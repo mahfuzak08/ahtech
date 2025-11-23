@@ -8,7 +8,7 @@
 				<div class="row">
 					<div class="col-lg-5">
 						<div class="section-head style-1">
-							<h2 class="title">We are the exclusive agents and pioneer suppliers in Singapore</h2>
+							<!-- <h2 class="title">We are the exclusive agents and pioneer suppliers in Singapore</h2> -->
 						</div>
 					</div>
 					<div class="col-lg-7">

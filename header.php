@@ -5,7 +5,11 @@
 				<div class="logo-header mostion logo-dark">
 					<a href="index.php">
 						<img src="images/logo.png" alt="">
-						<h1>A H TECH PTE LTD.</h1>
+						<div>
+							<p style="margin: 0 0 10px 0; line-height: 0px;">Welcome to</p>
+							<h1 style="margin: 0px; line-height: 0px;">A H TECH PTE LTD.</h1>
+							<p style="margin: 10px 0 0 0; line-height: 0px;">Singapore | Electro-Mechanical Engineering</p>
+						</div>
 					</a>
 				</div>
 				<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,11 +42,11 @@
 					<ul class="nav navbar-nav navbar navbar-left">
 						<li class="sub-menu-down"><a href="#">About Us</a>
 							<ul class="sub-menu">
+								<li><a href="#">Our Mission</a></li>
+								<li><a href="#">Our Vision</a></li>
+								<li><a href="#">Our Values</a></li>
 								<li><a href="#">What We Do</a></li>
-								<li><a href="#">Chairman message</a></li>
-								<li><a href="#">Certification</a></li>
-								<li><a href="#">Join AHTech</a></li>
-								<li><a href="#">Press Release</a></li>
+								<!-- <li><a href="#">Press Release</a></li> -->
 							</ul>
 						</li>
 						<li class="sub-menu-down"><a href="#">Products</a>
