@@ -6,9 +6,9 @@
 					<a href="index.php">
 						<img src="images/logo.png" alt="">
 						<div>
-							<p style="margin: 0 0 10px 0; line-height: 0px;">Welcome to</p>
-							<h1 style="margin: 0px; line-height: 0px;">A H TECH PTE LTD.</h1>
-							<p style="margin: 10px 0 0 0; line-height: 0px;">Singapore | Electro-Mechanical Engineering</p>
+							<p class="logo-brand-top-text">Welcome to</p>
+							<h1 class="logo-brand-title">A H TECH PTE LTD.</h1>
+							<p class="logo-brand-subtitle">Singapore | Electro-Mechanical Engineering</p>
 						</div>
 					</a>
 				</div>
