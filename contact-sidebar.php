@@ -8,7 +8,7 @@
 				<h4>About Us</h4>
 				<div class="dz-separator style-1 text-primary mb-0"></div>	
 			</div>
-			<p>Established in 1971, AHTech Power Engineering Ltd has been the Exclusive Agents of SIEMENS in the Emirate of Abu Dhabi.</p>
+			<p>A H TECH PTE LTD is a Singapore-based Electro-Mechanical Engineering and Supply company dedicated to delivering reliable, innovative, and cost-effective technical solutions across diverse industries.</p>
 		</div>
 		<div class="dz-title">
 			<h4>Contact Info</h4>

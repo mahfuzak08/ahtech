@@ -124,7 +124,8 @@ var Codesign = function(){
 		 
 		
 		if(screenWidth <= 991 ){
-			jQuery('.navbar-nav > li > a, .sub-menu > li > a').unbind().on('click', function(e){
+			// Handle nested submenu items (not top-level sub-menu-down items)
+			jQuery('.sub-menu > li > a').unbind().on('click', function(e){
 				if(jQuery(this).parent().hasClass('open'))
 				{
 					jQuery(this).parent().removeClass('open');
@@ -569,6 +570,44 @@ jQuery(document).ready(function() {
 		
 	jQuery('.navicon').on('click',function(){
 		$(this).toggleClass('open');
+	});
+
+	// Mobile submenu toggle handler - only toggle when clicking the arrow icon
+	jQuery('.header-nav .nav > li.sub-menu-down > a').on('click', function(e) {
+		// Only apply on mobile (screen width <= 991px)
+		if (jQuery(window).width() <= 991) {
+			var $parent = jQuery(this).parent();
+			var $submenu = $parent.find('> .sub-menu');
+			
+			// If submenu exists
+			if ($submenu.length > 0) {
+				// Get the click position relative to the link
+				var $link = jQuery(this);
+				var linkWidth = $link.outerWidth();
+				var clickX = e.pageX - $link.offset().left;
+				
+				// Check if click is on the right side (where the arrow icon is - last 30px)
+				if (clickX > (linkWidth - 40)) {
+					// Clicked on arrow icon - toggle submenu
+					e.preventDefault();
+					e.stopPropagation();
+					
+					if($parent.hasClass('open')) {
+						$parent.removeClass('open');
+						$submenu.slideUp(300);
+					} else {
+						// Close other submenus
+						jQuery('.header-nav .nav > li.sub-menu-down').not($parent).removeClass('open');
+						jQuery('.header-nav .nav > li.sub-menu-down').not($parent).find('> .sub-menu').slideUp(300);
+						
+						// Open this submenu
+						$parent.addClass('open');
+						$submenu.slideDown(300);
+					}
+				}
+				// If clicked on link text (left side), allow normal navigation
+			}
+		}
 	});
 
 });

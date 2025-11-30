@@ -11849,6 +11849,7 @@ nav .pagination.rounded-0 .page-item .page-link {
   @media only screen and (max-width: 991px) {
     .dz-content-bx.style-1 .dz-content-inner .content-media {
       width: 100%;
+      height: unset;
       padding-bottom: 0; }
     .dz-content-bx.style-1 .dz-content-inner .inner-content {
       padding: 60px 15px 10px; } }

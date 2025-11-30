@@ -40,12 +40,12 @@
 						</a>
 					</div>
 					<ul class="nav navbar-nav navbar navbar-left">
-						<li class="sub-menu-down"><a href="#">About Us</a>
+						<li class="sub-menu-down"><a href="about-us.php">About Us</a>
 							<ul class="sub-menu">
-								<li><a href="#">Our Mission</a></li>
-								<li><a href="#">Our Vision</a></li>
-								<li><a href="#">Our Values</a></li>
-								<li><a href="#">What We Do</a></li>
+								<li><a href="about-us.php#mission">Our Mission</a></li>
+								<li><a href="about-us.php#vision">Our Vision</a></li>
+								<li><a href="about-us.php#values">Our Values</a></li>
+								<li><a href="about-us.php#whatwedo">What We Do</a></li>
 								<!-- <li><a href="#">Press Release</a></li> -->
 							</ul>
 						</li>

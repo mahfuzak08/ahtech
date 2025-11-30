@@ -22,13 +22,12 @@
 						<img src="images/about.jpg" alt="" class="img1 aos-item" data-aos="fade-down" data-aos-duration="800" data-aos-delay="400">			
 					</div>
 					<div class="col-lg-7 aos-item" data-aos="fade-in" data-aos-duration="800" data-aos-delay="400">
-						<h4 class="title">We are the exclusive agents of Siemens AG and Osram in the Emirate of Abu Dhabi</h4>
+						<p class="text-justify">A H TECH PTE LTD is a Singapore-based Electro-Mechanical Engineering and Supply company dedicated to delivering reliable, innovative, and cost-effective technical solutions across diverse industries. With a strong foundation in engineering expertise and a commitment to quality, we provide end-to-end solutions—from equipment sourcing and supply to engineering support and project integration.</p>
 						<div class="year-exp shadow m-b30">
-							<h2 class="year text-primary">CELEBRATING</h2>
-							<h4 class="text">50 YEARS OF <span class="text-primary">EXPERIENCE</span></h4>
+							<h2 class="year text-primary">Powering</h2>
+							<h4 class="text">the <span class="text-primary">Future</span></h4>
 						</div>
-						<p class="text-justify">Electro Mechanical Company LLC has been the Exclusive Agents of SIEMENS in the Emirate of Abu Dhabi since 1971. Offices, factories, stores, and showrooms totaling over 13,000 square meters. We have been providing excellence in Contracting, Switchgear manufacturing, Electrical trading, Traffic Signaling and Automation We believe in delivering a safe and healthy work environment, and we are ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, and OHSAS 18001:2007 certified to do so.</p>
-						<p class="text-justify">ELMEC provides complete engineering services including supply, installation, testing and commissioning of a wide variety of products from SIEMENS with over 300 domain experts. Trade and retail handled by experts from our showrooms.</p>
+						<p class="text-justify">Our team is driven by professionalism, technical excellence, and a customer-centric approach. By collaborating with leading global manufacturers, we ensure our clients receive high-performance products and dependable services tailored to their operational needs.</p>
 					</div>
 				</div>
 			</div>
@@ -45,9 +44,9 @@
 											1 
 										</div>
 										<div class="icon-content">
-											<h4 class="title m-b0">Vision</h4>
+											<h4 id="mission" class="title m-b0">Mission</h4>
 											<div class="dz-separator style-2 bg-primary"></div>
-											<p>Continue to be leaders in providing solutions. Give a unique competitive edge to society enabling to master their vital challenges and create sustainable value.</p>
+											<p>To deliver exceptional electro-mechanical engineering solutions, products, and services that enhance efficiency, reliability, and value for our clients. We aim to be a trusted partner by upholding the highest standards of quality, transparency, and customer satisfaction.</p>
 										</div>
 									</div>
 								</div>
@@ -57,14 +56,25 @@
 											2
 										</div>
 										<div class="icon-content">
-											<h4 class="title m-b0">Mission</h4>
+											<h4 id="vision" class="title m-b0">Vision</h4>
 											<div class="dz-separator style-2 bg-primary"></div>
-											<!--<p>Take care of our employees: Taking care of our people is fundamental to success. We accomplish this by encouraging associates to speak out and take risks, recognize and reward performance, and guide in develop people so they can also thrive.</p>
-											<p>Outstanding customer service: In addition to our high-quality products, services, and pricing, we strive to outperform the competition by proposing the best product for each client and assist them to get the most out of their investments.</p>
-											<p>Building great connections: Strong partnerships are built on the basis of trust, honesty, and integrity. We regard customers, associates, and vendors as partners and respond to their needs in time.</p>
-											<p>Employees at Elmec are encouraged to come up with new and innovative ways to serve our clients, as well as share best practices across the business.</p>-->
-											<p>Find the finest approach for rising consciousness and expertise in society towards electrical systems.</p>
-											<p>To gain profitability out of our solutions and channel them into values for customers.</p>
+											<p>To become a leading regional provider of electro-mechanical engineering and supply solutions, recognized for our technical expertise, innovation, long-term partnerships, and commitment to sustainable growth.</p>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-12 col-md-12 aos-item" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="400">
+									<div class="icon-bx-wraper style-2 left m-b50">
+										<div class="icon-bx-md icon-bx m-r20"> 
+											3
+										</div>
+										<div class="icon-content">
+											<h4 id="values" class="title m-b0">Values</h4>
+											<div class="dz-separator style-2 bg-primary"></div>
+											<p><span style="font-weight:900">Quality:</span> We ensure top-tier products, precision engineering, and consistent service excellence</p>
+											<p><span style="font-weight:900">Integrity:</span> We operate with honesty, accountability, and transparency in every engagement.</p>
+											<p><span style="font-weight:900">Innovation:</span> We embrace modern engineering practices and continuously seek improved solutions.</p>
+											<p><span style="font-weight:900">Customer Focus:</span> We prioritize our clients’ needs and build solutions that support their success.</p>
+											<p><span style="font-weight:900">Sustainability:</span> We are committed to environmentally responsible practices and long-term value creation.</p>
 										</div>
 									</div>
 								</div>
@@ -74,7 +84,51 @@
 				</div>
 			</div>
 		</section>
-
+		<section class="dz-content-bx style-1 line-img">
+			<div class="dz-content-inner bg-gray" style="background-image: url(index.html); background-repeat:no-repeat; background-position:right;">
+				<div class="container" id="whatwedo">
+					<div class="row">
+						<div class="col-lg-5">
+							<div class="video-bx content-media style-1">
+								<img src="images/video/pic1.jpg" alt="">
+								<div class="video-btn aos-item" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="200">
+									<a href="https://www.youtube.com/watch?v=d9kXYPrSksY" class="popup-youtube"><i class="flaticon-play"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-7 inner-content">
+							<div class="section-head style-1">
+								<h2 class="title">What We Do</span></h2>
+								<!-- <div class="dz-separator style-1 text-primary"></div> -->
+							</div>
+							<div class="row">						
+								<ul class="listing-content">
+									<li><i class="flaticon flaticon-checked"></i>Electro-Mechanical Equipment Supply</li>
+									<li><i class="flaticon flaticon-checked"></i>Engineering Support & Technical Consultancy</li>
+									<li><i class="flaticon flaticon-checked"></i>Electrical & Mechanical Installation Materials</li>
+									<li><i class="flaticon flaticon-checked"></i>Industrial Tools, Spare Parts & Components</li>
+									<li><i class="flaticon flaticon-checked"></i>Customized Technical Solutions for Projects</li>
+									<li><i class="flaticon flaticon-checked"></i>Procurement & International Sourcing</li>
+								</ul>
+							</div>
+							<div class="section-head style-1">
+								<div class="dz-separator style-1 text-primary"></div>
+								<h2 class="title">Why Choose Us</span></h2>
+							</div>
+							<div class="row">						
+								<ul class="listing-content">
+									<li><i class="flaticon flaticon-checked"></i>Trusted Engineering Expertise</li>
+									<li><i class="flaticon flaticon-checked"></i>High-Quality Products</li>
+									<li><i class="flaticon flaticon-checked"></i>Customer-Centric Approach</li>
+									<li><i class="flaticon flaticon-checked"></i>Global Sourcing Capability</li>
+									<li><i class="flaticon flaticon-checked"></i>Reliable Support & After-Sales Service</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		<section class="content-inner overlay-white-dark" style="background-image:url(images/background/bg5.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat;">
 			<div class="container">
 				<div class="section-head style-1 text-center">
