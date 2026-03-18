@@ -12,7 +12,7 @@
 							<ul>
 								<li><i class="flaticon-placeholder"></i>60 PAYA LEBAR ROAD,#07-54, PAYA LEBAR SQUARE, SINGAPORE 409051</li>
 								<!-- <li><i class="flaticon-telephone"></i>+8801833148736</li>								 -->
-								<!--<li><i class="fa fa-fax"></i>+971 2 626 9871</li>-->
+								<!--<li><i class="flaticon-telephone"></i>+6589477182</li>-->
 								<li><i class="fa fa-globe"></i>www.ahtech.com.sg</li>
 								<li><i class="flaticon-email"></i>akramul@ahtech.com.sg</li>
 							</ul><br>
@@ -27,9 +27,9 @@
 							<ul>
 							<li><a href="index.php">Home</a></li>
 							<li><a href="about-us.php">About Us</a></li>
-                            <li><a href="retail-and-showrooms.php">Retail & Showrooms</a></li>
-							<li><a href="divisions.php">Divisions</a></li>
-                            <li><a href="clients.php">Clients</a></li>
+                            <li><a href="#">Retail & Showrooms</a></li>
+							<li><a href="#">Divisions</a></li>
+                            <li><a href="#">Clients</a></li>
                             <li><a href="contact-us.php">Contact Us</a></li>
 							</ul>
 						</div>
@@ -40,14 +40,14 @@
 								<h4 class="title">HV EPC Works</h4>
 							</div>
 							<ul>
-								<li><a href="intelligent-transportation-systems.php">Intelligent Transportation Systems</a></li>
-								<li><a href="project/epc.php">EPC Projects</a></li>
-								<li><a href="medium-voltage-switchgear.php">Medium Voltage Switchgears</a></li>
-								<li><a href="low-voltage-switchgear.php">Low Voltage Switchgears</a></li>
-								<li><a href="divisions.php">Automation and Instrumentation</a></li>
-								<li><a href="retail-and-showrooms.php">Air Field Lighting</a></li>
-								<li><a href="retail-and-showrooms.php">Osram Lighting</a></li>
-								<li><a href="retail-and-showrooms.php">Light Fittings and Control Gears</a></li>
+								<li><a href="#">Intelligent Transportation Systems</a></li>
+								<li><a href="#">EPC Projects</a></li>
+								<li><a href="#">Medium Voltage Switchgears</a></li>
+								<li><a href="#">Low Voltage Switchgears</a></li>
+								<li><a href="#">Automation and Instrumentation</a></li>
+								<li><a href="#">Air Field Lighting</a></li>
+								<li><a href="#">Osram Lighting</a></li>
+								<li><a href="#">Light Fittings and Control Gears</a></li>
 							</ul>
 						</div>
 					</div>

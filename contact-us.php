@@ -87,7 +87,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Location</h4>
-        										<p class="m-b0">Electro Mechanical Company LLC (ELMEC)<br>P.O. Box 732, 701/702 Al Ghaith Towers<br>Hamdan Street, Abu Dhabi, UAE</p>
+        										<p class="m-b0">PAYA LEBAR SQUARE, SINGAPORE 409051</p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -96,16 +96,16 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Phone</h4>
-        										<p class="m-b0"><a href="tel:97126262800">+971 2 626 2800</a></p>
+        										<p class="m-b0"><a href="tel:97126262800">+6583532945</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
         									<div class="icon-md m-r20">
-        										<span class="icon-cell text-primary"><i class="fa fa-fax"></i></span> 
+        										<span class="icon-cell text-primary"><i class="flaticon-telephone"></i></span> 
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Fax</h4>
-        										<p class="m-b0">+971 2 626 9871</p>
+        										<p class="m-b0">+6589477182</p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -114,7 +114,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Email</h4>
-        										<p class="m-b0"><a href="mailto:elmec1@elmec.ae">elmec1@elmec.ae</a></p>
+        										<p class="m-b0"><a href="mailto:akramul@ahtech.com.sg">akramul@ahtech.com.sg</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -123,17 +123,17 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Website</h4>
-        										<p class="m-b0">www.elmec.ae</p>
+        										<p class="m-b0">www.ahtech.com.sg</p>
         									</div>
     									</div>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-6 m-b30">
-							    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3630.845739588086!2d54.3638401!3d24.4908012!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e66668fb6c499%3A0xfd0b7bcb0005ff5b!2sAl%20Ghaith%20Tower!5e0!3m2!1sen!2sae!4v1660047815742!5m2!1sen!2sae" width="600" height="528" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.760904082545!2d103.8899571747245!3d1.3191483986683377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da181811191ccf%3A0xd4e386a9eef755d8!2sPaya%20Lebar%20Square!5e0!3m2!1sen!2sbd!4v1773849070577!5m2!1sen!2sbd" width="600" height="528" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</div>
                         </div>
-						<div class="row">
+						<!-- <div class="row">
 							<div class="col-lg-6 m-b30">
 								<div class="icon-bx-wraper style-8 bg-white">
 								    <div class="row contact-page">
@@ -160,7 +160,7 @@
     									</div>
     									<div class="col-md-12 m-t20">
         									<div class="icon-md m-r20">
-        										<span class="icon-cell text-primary"><i class="fa fa-fax"></i></span> 
+        										<span class="icon-cell text-primary"><i class="flaticon-telephone"></i></span> 
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Fax</h4>
@@ -173,7 +173,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Email</h4>
-        										<p class="m-b0"><a href="mailto:elmec1@elmec.ae">elmec1@elmec.ae</a></p>
+        										<p class="m-b0"><a href="mailto:akramul@ahtech.com.sg">akramul@ahtech.com.sg</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -182,7 +182,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Website</h4>
-        										<p class="m-b0">www.elmec.ae</p>
+        										<p class="m-b0">www.ahtech.com.sg</p>
         									</div>
     									</div>
 									</div>
@@ -219,7 +219,7 @@
     									</div>
     									<div class="col-md-12 m-t20">
         									<div class="icon-md m-r20">
-        										<span class="icon-cell text-primary"><i class="fa fa-fax"></i></span> 
+        										<span class="icon-cell text-primary"><i class="flaticon-telephone"></i></span> 
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Fax</h4>
@@ -242,7 +242,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Website</h4>
-        										<p class="m-b0">www.elmec.ae</p>
+        										<p class="m-b0">www.ahtech.com.sg</p>
         									</div>
     									</div>
 									</div>
@@ -251,8 +251,8 @@
 							<div class="col-lg-6 m-b30">
 							    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1000083501467!2d54.37435891499531!3d24.48199148423378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e66477450608d%3A0xa7b33e428d3c9980!2sElectro%20Mechanical%20Company%20L.L.C.!5e0!3m2!1sen!2sae!4v1646398437602!5m2!1sen!2sae" width="100%" height="578" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							</div>
-                        </div>
-                        <div class="row">
+                        </div> -->
+                        <!-- <div class="row">
 							<div class="col-lg-6 m-b30">
 								<div class="icon-bx-wraper style-8 bg-white">
 								    <div class="row contact-page">
@@ -279,7 +279,7 @@
     									</div>
     									<div class="col-md-12 m-t20">
         									<div class="icon-md m-r20">
-        										<span class="icon-cell text-primary"><i class="fa fa-fax"></i></span> 
+        										<span class="icon-cell text-primary"><i class="flaticon-telephone"></i></span> 
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Fax</h4>
@@ -301,7 +301,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Website</h4>
-        										<p class="m-b0">www.elmec.ae</p>
+        										<p class="m-b0">www.ahtech.com.sg</p>
         									</div>
     									</div>
 									</div>
@@ -310,8 +310,8 @@
 							<div class="col-lg-6 m-b30">
 							    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634.0956441556164!2d54.480841314993334!3d24.37797598428376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4108d10a735b%3A0xa310f14008b102b9!2sADPAC%20Abu%20Dhabi%20Power%20%26%20Control%20System%20Works!5e0!3m2!1sen!2sae!4v1646398501031!5m2!1sen!2sae" width="100%" height="503" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							</div>
-                        </div>
-                        <div class="row">
+                        </div> -->
+                        <!-- <div class="row">
 							<div class="col-lg-6 m-b30">
 								<div class="icon-bx-wraper style-8 bg-white">
 								    <div class="row contact-page">
@@ -338,7 +338,7 @@
     									</div>
     									<div class="col-md-12 m-t20">
         									<div class="icon-md m-r20">
-        										<span class="icon-cell text-primary"><i class="fa fa-fax"></i></span> 
+        										<span class="icon-cell text-primary"><i class="flaticon-telephone"></i></span> 
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Fax</h4>
@@ -360,7 +360,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Website</h4>
-        										<p class="m-b0">www.elmec.ae</p>
+        										<p class="m-b0">www.ahtech.com.sg</p>
         									</div>
     									</div>
 									</div>
@@ -369,7 +369,7 @@
 							<div class="col-lg-6 m-b30">
 							    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3639.173728262485!2d55.757394614989856!3d24.200694384369363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x972ada05cb28c198!2zMjTCsDEyJzAyLjUiTiA1NcKwNDUnMzQuNSJF!5e0!3m2!1sen!2sae!4v1646398539936!5m2!1sen!2sae" width="100%" height="553" style="border:0;" allowfullscreen="" loading="lazy"></iframe>   
 							</div>
-                        </div>
+                        </div> -->
 					</div>
 				</div>
 			</div>

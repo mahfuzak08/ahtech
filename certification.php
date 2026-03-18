@@ -59,19 +59,19 @@
 				</div>
 				<div class="row m-b15">
 					<div class="col-lg-4 col-6 m-b30 aos-item" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
-						<span data-exthumbimage="https://www.elmec.ae/images/Siemens-Partner.jpg" data-src="https://www.elmec.ae/images/Siemens-Partner.jpg" class="lightimg" title="">
+						<span data-exthumbimage="https://www.ahtech.com.sg/images/Siemens-Partner.jpg" data-src="https://www.ahtech.com.sg/images/Siemens-Partner.jpg" class="lightimg" title="">
 							<img src="images/Siemens-Partner.jpg" alt="">
 						</span>
 					</div>
 				</div>
 				<div class="row m-b15">
 					<div class="col-lg-6 col-6 m-b30 aos-item" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
-						<span data-exthumbimage="https://www.elmec.ae/images/Siemens-Partner-Gallery-1.jpg" data-src="https://www.elmec.ae/images/Siemens-Partner-Gallery-1.jpg" class="lightimg" title="">
+						<span data-exthumbimage="https://www.ahtech.com.sg/images/Siemens-Partner-Gallery-1.jpg" data-src="https://www.ahtech.com.sg/images/Siemens-Partner-Gallery-1.jpg" class="lightimg" title="">
 							<img src="images/Siemens-Partner-Gallery-1.jpg" alt="">
 						</span>
 					</div>
 					<div class="col-lg-6 col-6 m-b30 aos-item" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
-						<span data-exthumbimage="https://www.elmec.ae/images/Siemens-Partner-Gallery-2.jpg" data-src="https://www.elmec.ae/images/Siemens-Partner-Gallery-2.jpg" class="lightimg" title="">
+						<span data-exthumbimage="https://www.ahtech.com.sg/images/Siemens-Partner-Gallery-2.jpg" data-src="https://www.ahtech.com.sg/images/Siemens-Partner-Gallery-2.jpg" class="lightimg" title="">
 							<img src="images/Siemens-Partner-Gallery-2.jpg" alt="">
 						</span>
 					</div>
@@ -84,17 +84,17 @@
 				</div>
 				<div class="row m-b15">
 					<div class="col-lg-4 col-6 m-b30 aos-item" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
-						<span data-exthumbimage="https://www.elmec.ae/images/awards/ITS-awards-1.jpg" data-src="https://www.elmec.ae/images/awards/ITS-awards-1.jpg" class="lightimg" title="">
+						<span data-exthumbimage="https://www.ahtech.com.sg/images/awards/ITS-awards-1.jpg" data-src="https://www.ahtech.com.sg/images/awards/ITS-awards-1.jpg" class="lightimg" title="">
 							<img src="images/awards/ITS-awards-1.jpg" alt="">
 						</span>
 					</div>
 					<div class="col-lg-4 col-6 m-b30 aos-item" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
-						<span data-exthumbimage="https://www.elmec.ae/images/awards/ITS-awards-2.jpg" data-src="https://www.elmec.ae/images/awards/ITS-awards-2.jpg" class="lightimg" title="">
+						<span data-exthumbimage="https://www.ahtech.com.sg/images/awards/ITS-awards-2.jpg" data-src="https://www.ahtech.com.sg/images/awards/ITS-awards-2.jpg" class="lightimg" title="">
 							<img src="images/awards/ITS-awards-2.jpg" alt="">
 						</span>
 					</div>
 					<div class="col-lg-4 col-6 m-b30 aos-item" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
-						<span data-exthumbimage="https://www.elmec.ae/images/awards/ITS-awards-3.jpg" data-src="https://www.elmec.ae/images/awards/ITS-awards-3.jpg" class="lightimg" title="">
+						<span data-exthumbimage="https://www.ahtech.com.sg/images/awards/ITS-awards-3.jpg" data-src="https://www.ahtech.com.sg/images/awards/ITS-awards-3.jpg" class="lightimg" title="">
 							<img src="images/awards/ITS-awards-3.jpg" alt="">
 						</span>
 					</div>

@@ -34,7 +34,7 @@
 							</div>
 							<div class="row">						
 								<ul class="listing-content">
-									<li><i class="flaticon flaticon-checked"></i>Electro Mechanical Company LLC (ELMEC) has been the Exclusive Agents of SIEMENS in the Emirate of Abu Dhabi since 1971.</li>
+									<li><i class="flaticon flaticon-checked"></i>PAYA LEBAR SQUARE, SINGAPORE 409051</li>
 									<li><i class="flaticon flaticon-checked"></i>We have been providing excellence in Contracting, Switchgear manufacturing, Electrical trading, Traffic Signaling and Automation.</li>
 									<li><i class="flaticon flaticon-checked"></i>One of our key focuses is to serve our clients with cost-effective solutions and systems, as well as unified solutions based on Siemens' product portfolio, which includes high-quality products and services.</li>
 									<li><i class="flaticon flaticon-checked"></i>Design and engineering services are provided locally by highly trained domain experts.</li>
