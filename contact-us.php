@@ -96,7 +96,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Phone</h4>
-        										<p class="m-b0"><a href="tel:97126262800">+6583532945</a></p>
+        										<p class="m-b0"><a href="tel:6583532945">+6583532945</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -104,8 +104,8 @@
         										<span class="icon-cell text-primary"><i class="flaticon-telephone"></i></span> 
         									</div>
         									<div class="icon-content">
-        										<h4 class="tilte m-b10">Fax</h4>
-        										<p class="m-b0">+6589477182</p>
+        										<h4 class="tilte m-b10">Phone</h4>
+        										<p class="m-b0"><a href="tel:6589477182">+6589477182</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -123,7 +123,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Website</h4>
-        										<p class="m-b0">www.ahtech.com.sg</p>
+        										<p class="m-b0"><a href="http://www.ahtech.com.sg" target="_blank">www.ahtech.com.sg</a></p>
         									</div>
     									</div>
 									</div>

@@ -11,10 +11,9 @@
 							</div>
 							<ul>
 								<li><i class="flaticon-placeholder"></i>60 PAYA LEBAR ROAD,#07-54, PAYA LEBAR SQUARE, SINGAPORE 409051</li>
-								<!-- <li><i class="flaticon-telephone"></i>+8801833148736</li>								 -->
-								<!--<li><i class="flaticon-telephone"></i>+6589477182</li>-->
-								<li><i class="fa fa-globe"></i>www.ahtech.com.sg</li>
-								<li><i class="flaticon-email"></i>akramul@ahtech.com.sg</li>
+								<li><i class="flaticon-telephone"></i><a href="tel:6583532945">+6583532945</a>, <a href="tel:6589477182">+6589477182</a></li>
+								<li><i class="fa fa-globe"></i><a href="http://www.ahtech.com.sg" target="_blank">www.ahtech.com.sg</a></li>
+								<li><i class="flaticon-email"></i><a href="mailto:akramul@ahtech.com.sg">akramul@ahtech.com.sg</a></li>
 							</ul><br>
 							<a class="btn-link style-2" href="https://maps.app.goo.gl/1w2ARknzucY21PSTA">GET DIRECTIONS <i class="m-l5 las la-plus"></i></a>
 						</div>
