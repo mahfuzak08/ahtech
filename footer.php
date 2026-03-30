@@ -10,7 +10,7 @@
 								<h4 class="title">Contact Us</h4>
 							</div>
 							<ul>
-								<li><i class="flaticon-placeholder"></i>60 PAYA LEBAR ROAD,#07-54, PAYA LEBAR SQUARE, SINGAPORE 409051</li>
+								<li><i class="flaticon-placeholder"></i>236A SERANGOON ROAD, SINGAPORE 218084</li>
 								<li><i class="flaticon-telephone"></i><a href="tel:6583532945">+6583532945</a>, <a href="tel:6589477182">+6589477182</a></li>
 								<li><i class="fa fa-globe"></i><a href="http://www.ahtech.com.sg" target="_blank">www.ahtech.com.sg</a></li>
 								<li><i class="flaticon-email"></i><a href="mailto:akramul@ahtech.com.sg">akramul@ahtech.com.sg</a></li>
@@ -51,7 +51,7 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 m-b40 aos-item aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1688.3103652165635!2d103.89219824960418!3d1.3194178791367677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1818677e43ff%3A0x6f79d2e355e2403a!2s60%20Paya%20Lebar%20Rd%2C%20%2307%2054%20Paya%20Lebar%20Square%2C%20Singapore%20409051!5e0!3m2!1sen!2sbd!4v1763614919479!5m2!1sen!2sbd" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.776051735306!2d103.85139157472456!3d1.3096653986779088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c7aee0638d%3A0x93ffa2ccb46c79db!2s236A%20Serangoon%20Rd%2C%20Singapore%20218084!5e0!3m2!1sen!2sbd!4v1774869366392!5m2!1sen!2sbd" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 					</div>
 				</div>
             </div>

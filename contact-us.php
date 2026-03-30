@@ -87,7 +87,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Location</h4>
-        										<p class="m-b0">PAYA LEBAR SQUARE, SINGAPORE 409051</p>
+        										<p class="m-b0">236A SERANGOON ROAD, SINGAPORE 218084</p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -130,7 +130,7 @@
 								</div>
 							</div>
 							<div class="col-lg-6 m-b30">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.760904082545!2d103.8899571747245!3d1.3191483986683377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da181811191ccf%3A0xd4e386a9eef755d8!2sPaya%20Lebar%20Square!5e0!3m2!1sen!2sbd!4v1773849070577!5m2!1sen!2sbd" width="600" height="528" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.776051735306!2d103.85139157472456!3d1.3096653986779088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c7aee0638d%3A0x93ffa2ccb46c79db!2s236A%20Serangoon%20Rd%2C%20Singapore%20218084!5e0!3m2!1sen!2sbd!4v1774869366392!5m2!1sen!2sbd" width="600" height="528" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</div>
                         </div>
 						<!-- <div class="row">

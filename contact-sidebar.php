@@ -38,7 +38,7 @@
 			</div>
 			<div class="icon-content">
 				<h5 class="tilte">Location</h5>
-				<p class="m-b0"><a href="https://maps.app.goo.gl/1w2ARknzucY21PSTA" target="_blank">PAYA LEBAR SQUARE, SINGAPORE 409051</a></p>
+				<p class="m-b0"><a href="https://maps.app.goo.gl/1w2ARknzucY21PSTA" target="_blank">236A SERANGOON ROAD, SINGAPORE 218084</a></p>
 			</div>
 		</div>
 	</div>	
